@@ -46,7 +46,7 @@ Open your terminal, navigate to the saved location, and then run
 
 For more advanced Java tuning, see `this page <https://mcflags.emc.gs>`_
 
-To configure your server, see the :doc:`../server/configuration` page.
+To configure your server, see the :doc:`../paper/configuration` page.
 
 Updating The Server
 ~~~~~~~~~~~~~~~~~~~

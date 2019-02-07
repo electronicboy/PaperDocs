@@ -13,21 +13,16 @@ Introduction
 Welcome to PaperDocs, the official documentation source for
 the `PaperMC <https://www.github.com/PaperMC>`__ project.
 
-Paper is a high performance fork of the Spigot Minecraft Server that aims to
-fix gameplay and mechanics inconsistencies as well as to improve performance.
-
-Paper contains numerous features, bug fixes, exploit preventions and
-major performance improvements not found in Spigot.
+The PaperMC project consists of multiple projects aimed at improving the
+ecosystem which they serve, most notability, the :doc:`paper/index` and
+:doc:`waterfall/index` projects.
 
 Not sure what you're looking for? Try our :doc:`about/index` section, which
 contains a short :doc:`about/introduction`, our :doc:`about/faq` and an article
 about :doc:`about/structure`.
 
-Server owners should read our tips and instructions in :doc:`server/index` on
+Server owners should read our tips and instructions in :doc:`paper/index` on
 how to install, run and maintain a Paper based server.
-
-The PaperMC project has several main components. Learn more about the project
-structure :doc:`here <about/structure>`.
 
 Running A Server
 ~~~~~~~~~~~~~~~~
@@ -39,7 +34,19 @@ configuring it, maintaining plugins, and general best practices.
     :maxdepth: 3
     :titlesonly:
 
-    server/index
+    paper/index
+
+Running A Network
+~~~~~~~~~~~~~~~~~
+
+Waterfall provides a convenient way to connect multiple servers together,
+allowing you to expand your servers capacity and capabilities.
+
+.. toctree::
+    :maxdepth: 3
+    :titlesonly:
+
+    waterfall/index
 
 Contributing to Paper
 ~~~~~~~~~~~~~~~~~~~~~~
