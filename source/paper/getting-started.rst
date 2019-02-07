@@ -16,7 +16,7 @@ Migrating From Vanilla
 ~~~~~~~~~~~~~~~~~~~~~~
 
 Migrating from Vanilla is easy, but there are some differences, namely in
-world saves. Paper (and CraftBukkit and Spigot) seperate out each dimension of
+world saves. Paper (and CraftBukkit and Spigot) separate out each dimension of
 a world (nether, the end, etc) into separate world folders.
 
 Paper will handle this conversion for you automatically.
@@ -31,7 +31,7 @@ Getting A Server Jar
 ~~~~~~~~~~~~~~~~~~~~~
 
 Paper provides runnable server jars directly from our continuous integration
-server `here <https://destroystokyo.com/ci/job/Paper>`_.
+server `here <https://papermc.io/downloads>`_.
 
 Download one of the artifacts (either paperclip.jar or paperclip-####.jar, they
 are the same) and save it to a new directory somewhere on your file system.
@@ -45,7 +45,6 @@ Open your terminal, navigate to the saved location, and then run
 ``java -jar paperclip.jar``
 
 For more advanced Java tuning, see `this page <https://mcflags.emc.gs>`_
-
 To configure your server, see the :doc:`../paper/configuration` page.
 
 Updating The Server

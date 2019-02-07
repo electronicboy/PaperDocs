@@ -15,6 +15,11 @@ The Structure of PaperMC
 | `PaperTestServer <https://github.com/PaperMC/PaperTestServer>`_   | A skeleton test server we use for testing             |
 |                                                                   | plugin compatibility                                  |
 +-------------------------------------------------------------------+-------------------------------------------------------+
+| `Waterfall <https://github.com/PaperMC/Waterfall>`_               | The Waterfall proxy                                   |
++-------------------------------------------------------------------+-------------------------------------------------------+
+| `Travertine <https://github.com/PaperMC/Travertine>`_             | The Travertine proxy                                  |
++-------------------------------------------------------------------+-------------------------------------------------------+
+
 
 Paper
 =====
@@ -33,6 +38,8 @@ to build their plugins against.
 
 Paper-Server is compiled, then handed off to the Paperclip launcher tool.
 More on that in a second. From there, we distribute it to you!
+
+.. _paperclip-header: Paperclip
 
 Paperclip
 =========

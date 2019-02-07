@@ -23,7 +23,7 @@ Paper requires the Java Runtime Environment to run. Specifically, it requires
 at least Java version 8. Once that is installed you're all good to go! If you
 don't already have a Java 8 Runtime, `it's easy to download and install <http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html>`_.
 
-See our docs on starting out: :doc:`/server/getting-started`
+See our docs on starting out: :doc:`/paper/getting-started`
 
 Where do I get it?
 ------------------
